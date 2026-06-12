@@ -1,0 +1,6 @@
+{
+  "name": "Windows System Optimizer Builder",
+  "description": "An interactive, visually polished custom script generator for Windows system cleanup, game mode optimization, privacy adjustments, and SSD booster configuration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
